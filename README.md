@@ -6,7 +6,7 @@ This project is a daily scheduler created utilizing day.js to retrive current ti
 
 ## Installation
 
-Run the index.html file in a browser window or go to the github pages link here: <a href="">Daily Scheduler</a>
+Run the index.html file in a browser window or go to the github pages link here: <a href="https://max24p7.github.io/daily-scheduler/">Daily Scheduler</a>
 
 ## Usage
 
